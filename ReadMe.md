@@ -2,7 +2,7 @@
 
 This is the backend server for a shoe store eCommerce platform, built with Node.js, Express, and MongoDB. It provides RESTful APIs for authentication, product management, cart, orders, payments, and admin operations.
 
-## Project Structure
+## Project-Folder Structure
 
 ```
 Ecommerce-Backend/
